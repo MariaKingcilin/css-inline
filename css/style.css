@@ -1,0 +1,24 @@
+ul{
+	list-style-type:none;
+	background-color:rgb(45,45,45);
+	margin:auto;
+}
+li{
+	display:inline;
+}
+li a{
+	text-decoration:none;
+	color:white;
+	padding:15px;
+	text-align:center;
+}
+input{
+	border-radius:5px;
+}
+i{
+	color:white;
+	padding:5px;
+}
+img{
+	border-radius:50%;
+}
